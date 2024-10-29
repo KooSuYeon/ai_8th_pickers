@@ -1,5 +1,11 @@
 # ai_8th_pickers
 AI_8기 3주차 3조 pickers 리포입니다.
+
+- [X] titanic 필수 과제 구현  
+- [X] netflix 평점 예측 도전 과제 구현  
+- [X] netflix sentiment 추가 도전 과제 구현  
+
+---
 - 깃 레포 연결 후에는 git pull origin main을 해주어야 합니다.
 - 개인 브랜치 -> main PR(Pull Request) 생성 후 merge 원칙
 
@@ -17,6 +23,9 @@ AI_8기 3주차 3조 pickers 리포입니다.
     - chore 	: 빌드 업무 수정, 패키지 매니저 수정
 </details>
 
+---
+**필수과제 역할 분담**
+
 #### 1. 데이터 셋 불러오기 및 feature 분석
 - 담당 : 고준원
 
@@ -33,7 +42,7 @@ AI_8기 3주차 3조 pickers 리포입니다.
 </details>
 
 #### 2. Feture Engineering
-- 담당 : 박수호, 최동선
+- 담당 : 박수호
 
 <details>
     <summary>
@@ -46,7 +55,7 @@ AI_8기 3주차 3조 pickers 리포입니다.
 </details>
 
 #### 3. 모델 학습
-- 담당 : 구수연, 김수민
+- 담당 : 구수연
 <details>
     <summary>
     Process
