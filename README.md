@@ -2,8 +2,21 @@
 AI_8기 3주차 3조 pickers 리포입니다.
 
 - [X] titanic 필수 과제 구현  
-- [X] netflix 평점 예측 도전 과제 구현  
-- [X] netflix sentiment 추가 도전 과제 구현  
+- jupyter notebook으로 구현
+- 가장 높았던 성능 : XGBRegression
+- 성능 측정 방법 : MSE
+- titanic_predict.ipynb
+- [X] netflix 평점 예측 도전 과제 구현
+- 모델 학습은 jupyter notebook, 이외 일부 전처리와 모델 class정의는 py 파일로 정의
+- 가장 높았던 성능 : lstm + Attention
+- neflix_review/raiting_predict with_attention.ipynb   
+- [X] netflix sentiment 추가 도전 과제 구현
+- 위와 스펙은 동일
+- 전처리에서 더 완화된 기준인 sentiment 적용만 차이점
+- 미리 학습 시켜놓은 모델 load 해 사용
+- 미리 sentiment 학습된 모델 : lstm_sentiment_model_vocab.pth
+- 실습 : sentiment_predict.ipynb
+- textblob : sentiment_textblob.ipynb  
 
 ---
 - 깃 레포 연결 후에는 git pull origin main을 해주어야 합니다.
