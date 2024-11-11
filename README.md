@@ -1,5 +1,7 @@
 # ai_8th_pickers
 AI_8기 3주차 3조 pickers 리포입니다.
+설명은 구글 슬라이드 참고 부탁드립니다.
+https://docs.google.com/presentation/d/1jWA0w3ls6vGmU32cFJ0v37eGXUb5Zre4OBr0nGSKYN4/edit?usp=sharing
 
 - [X] titanic 필수 과제 구현  
 - jupyter notebook으로 구현
